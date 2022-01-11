@@ -5,8 +5,9 @@ namespace ChsharpbasicTutorial;
     {
 static void Main(string[]args)
 {
-    //This is a comment, it just text for informing developers what the code does 
-    Console.Writeline("Hello World");
+    //This is a comment, it just text for informing developers what the code does as shown below
+    Console.Writeline("Hello out there, this is really good  ");
+    
 }
     }
 }
